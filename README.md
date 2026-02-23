@@ -33,3 +33,7 @@ This project models how cryptocurrencies like Bitcoin operate at a fundamental l
 ## What I Learned
 
 Building this project gave me a deep understanding of cryptographic hashing, proof-of-work mechanisms, and how the UTXO model prevents double-spending in decentralized systems.
+
+## Screenshot Output
+
+![Blockchain Demo]()
