@@ -36,4 +36,4 @@ Building this project gave me a deep understanding of cryptographic hashing, pro
 
 ## Screenshot Output
 
-![Blockchain Demo]()
+![Blockchain Demo](blockchainscreenshot.png)
